@@ -16,11 +16,11 @@
 
 ## 🎯 What You Unlock
 
-    🔓 Full file editing support  
-    🧠 Advanced syntax highlighting  
-    📊 Column mode and large file handling  
-    🔌 Scripting, plugins, FTP/SFTP access  
-    🚫 No online components required for install
+🔓 Full file editing support  
+🧠 Advanced syntax highlighting  
+📊 Column mode and large file handling  
+🔌 Scripting, plugins, FTP/SFTP access  
+🚫 No online components required for install
 
 ---
 
